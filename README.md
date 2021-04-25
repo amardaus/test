@@ -11,4 +11,6 @@ Uzupełnij funkcję start()
 
 # Zadanie 3
 Dorysuj nóżki pajączkowi oraz utwórz animację, tak aby oczka poruszały się na przemian w prawo i lewo. 
+
+
 ![pajączek](https://github.com/amardaus/test/blob/main/pajaczek.gif)
